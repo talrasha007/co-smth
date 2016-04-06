@@ -1,0 +1,17 @@
+{
+  "name": "co-smth",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talrasha007/co-smth.git"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "API for newsmth.net",
+  "dependencies": {
+    "co-lodash": "^0.0.4",
+    "co-request": "~1.0.0"
+  },
+  "devDependencies": {
+    "co": "~4.6.0"
+  }
+}
