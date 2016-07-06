@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/talrasha007/co-smth.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "API for newsmth.net",
   "main": "lib/api.js",
